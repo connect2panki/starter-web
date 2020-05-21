@@ -5,8 +5,8 @@
 
     <name> -- <role> -- <twitter>
 #   pankaj singh 
-
-#   devops engineer and developer of next gen
+# learning devops is typical
+#   devops engineer 
 
 # THANKS
 
@@ -17,5 +17,5 @@
     HTML5, CSS3
     jQuery, Modernizr
     python , bootstrap
-	java ,php
+	
 
