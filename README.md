@@ -5,11 +5,11 @@ i m learning devops
 devops training is hard
 
 # introduction
-i m already complete introduction
-this training is very hard
+i m already complete introducti
 # git and github training
 training is on the way for finishing
-# git content 
 content of this site is very easy and understandable
 # contribution 
 become a devops engineer
+# starter
+web project is start in program
