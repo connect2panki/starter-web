@@ -5,7 +5,9 @@
 
     <name> -- <role> -- <twitter>
 #   pankaj singh 
+
 #   devops engineer and developer of next gen
+
 # THANKS
 
     <name>
@@ -16,4 +18,4 @@
     jQuery, Modernizr
     python , bootstrap
 	java ,php
-	git , maven
+
