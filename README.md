@@ -1,7 +1,8 @@
 # starter web-project
 this is git training program
 i m learning devops
-
+# learn 
+devops training is hard
 
 # introduction
 i m already complete introduction
