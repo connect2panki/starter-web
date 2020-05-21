@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# this concept of learning is very cool
+# this is very useful for learning purpose
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -13,4 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-    python , java
+    python , bootstrap
+	java ,php
