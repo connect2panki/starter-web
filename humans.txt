@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 #   pankaj singh 
-#   devops engineer
+# i want to become a dev ops engineer and also a good developer 
 # THANKS
 
     <name>
@@ -16,3 +16,4 @@
     jQuery, Modernizr
     python , bootstrap
 	java ,php
+	docker, jenkins
