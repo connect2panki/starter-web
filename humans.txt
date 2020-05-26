@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
 #   pankaj singh 
 # learning devops is typical
+# this is easy to learn git
 #   devops engineer 
 
 # THANKS
