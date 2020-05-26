@@ -14,7 +14,7 @@
     <name>
 
 # TECHNOLOGY COLOPHON
-
+# java, django
     HTML5, CSS3
     jQuery, Modernizr
     python , bootstrap
