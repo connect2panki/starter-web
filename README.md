@@ -13,3 +13,5 @@ content of this site is very easy and understandable
 become a devops engineer
 # starter
 web project is start in program
+# course
+lot of things going to learn
