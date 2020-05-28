@@ -19,6 +19,6 @@
     jQuery, Modernizr
     python , bootstrap
 	aws devops 
-	azure
+	azure and hadoop
 	
 
